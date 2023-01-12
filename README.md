@@ -1,16 +1,22 @@
-### Hi there 👋
+# 😎 Ayushman Vinay Reddy
 
-<!--
-**escapizt/escapizt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blockchain Developer | Final Year Engineering Student, MLR Institute of Tech, Hyderabad 🚀
 
-Here are some ideas to get you started:
+I am a curious and always eager to learn something new. I am a blockchain developer and currently in my final year of Engineering. I am passionate about using technology to create decentralized solutions and make the world a better place.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 🔥
+- Solidity
+- GoLang
+- Javascript
+- Python
+
+## Projects 🚀
+- [NFT Mint Sniffer](https://github.com/escapizt/nft-sniffer) - Snif if theres a new NFT Mint happening with this Twitter Scraping Bot 🔥
+- [Delta DataDAO](https://github.com/escapizt/DeltaDataDAO) - Started learning FVM and fell in love with @filecoin. Built this for the super cool SpaceWarp Program 🚀
+
+## Connect with me 🤝
+- [Email](mailto:reddymuzzle444@gmail.com) 📧
+
+---
+
+[![](https://i.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)](https://giphy.com)
