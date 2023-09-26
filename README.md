@@ -1,6 +1,6 @@
 # 😎 Ayushman Vinay Reddy
 
-Blockchain Developer | Final Year Engineering Student, MLR Institute of Tech, Hyderabad 🚀
+Blockchain Developer | Final Year Engineering Student, BITS Pilani 🚀
 
 I am a curious and always eager to learn something new. I am a blockchain developer and currently in my final year of Engineering. I am passionate about using technology to create decentralized solutions and make the world a better place.
 
